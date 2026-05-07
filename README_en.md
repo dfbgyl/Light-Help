@@ -48,10 +48,31 @@ $s=(New-Object -COM WScript.Shell).CreateShortcut("$([Environment]::GetFolderPat
 
 iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Create_AdminPSShortcut_Tool.ps1 | iex
 ```
+---
+## 📑 Video Tutorials Navigation
+- [▶️ AI ID Photo Prompt Generator](#️-lightspeed-sharing-yt-video-tutorial-one-line-of-code-generate-perfect-id-photos-with-ai-stop-wasting-money-at-photo-studios-save-time-and-effort)
+- [▶️ Translate GitHub in One Line](#️-lightspeed-sharing-yt-video-tutorial-one-line-of-code-completely-translate-github-fastest-configuration)
+- [▶️ App Data Backup & Restore](#️-lightspeed-sharing-yt-video-tutorial-one-line-of-code-windows-app-data-1-click-backup--restore)
+- [▶️ Deep Windows Cleanup](#️-lightspeed-sharing-yt-video-tutorial-one-line-deep-windows-cleanup-no-software-needed-free-up-massive-space)
+- [▶️ Free Home Theater Setup](#️-lightspeed-sharing-yt-video-tutorial-free-home-theater-setup--no-nas-needed-auto-poster-wall--multi-device-playback-on-one-pc)
+- [▶️ iPhone to Windows Wireless Transfer](#️-lightspeed-sharing-yt-video-tutorial-wirelessly-transfer-iphone-photos--videos-to-windows-without-any-software)
+---
+#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [One Line of Code! Generate Perfect ID Photos with AI, Stop Wasting Money at Photo Studios! Save Time and Effort!](https://youtu.be/q4KUOJbgJZ4)
+
+<a href="https://youtu.be/q4KUOJbgJZ4" target="_blank">
+  <img src="images/014-1920-en.png" width="320" style="border-radius: 8px;" alt="Video Cover" title="Click to Play Video" />
+</a>
+
+### 📸 AI Perfect ID Photo Prompt Generator
+> **Tip:** Generates prompts for multiple types of perfect ID photos. Send them to any AI to instantly generate flawless, standard-sized ID photos. Save time and effort.
+
+```powershell
+
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/AIPortrait_Tool.ps1 | iex
+```
 
 ---
-**▶️ Lightspeed Sharing (YT) Video Tutorial:** [One Line of Code! Completely Translate GitHub! Fastest Configuration](https://youtu.be/n7P0SFjFppg)  
-*(Exclusive companion project for viewers)*
+#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [One Line of Code! Completely Translate GitHub! Fastest Configuration](https://youtu.be/n7P0SFjFppg)
 
 <a href="https://youtu.be/n7P0SFjFppg" target="_blank">
   <img src="images/013-1280-en.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
@@ -70,8 +91,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/GitH
 https://github.com/Cotton059/Light-Help/raw/refs/heads/main/ThirdParty/maboloshi_github-chinese/main.user.js
 ```
 ---
-**▶️ Lightspeed Sharing (YT) Video Tutorial:** [One Line of Code! Windows App Data 1-Click Backup & Restore](https://youtu.be/5bBx3p3nWok)  
-*(Exclusive companion project for viewers)*
+#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [One Line of Code! Windows App Data 1-Click Backup & Restore](https://youtu.be/5bBx3p3nWok)
 
 <a href="https://youtu.be/5bBx3p3nWok" target="_blank">
   <img src="images/012-1280-en.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
@@ -86,8 +106,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/AppBackup_
 
 
 ---
-**▶️ Lightspeed Sharing (YT) Video Tutorial:** [One-Line Deep Windows Cleanup! No Software Needed, Free Up Massive Space](https://youtu.be/f5Ta_W54GL0)  
-*(Exclusive companion project for viewers)*
+#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [One-Line Deep Windows Cleanup! No Software Needed, Free Up Massive Space](https://youtu.be/f5Ta_W54GL0)
 
 <a href="https://youtu.be/f5Ta_W54GL0" target="_blank">
   <img src="images/011-1280-en.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
@@ -107,8 +126,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/DeepClean_
 ```
 
 ---
-**▶️ Lightspeed Sharing (YT) Video Tutorial:** [Free Home Theater Setup | No NAS Needed, Auto Poster Wall & Multi-Device Playback on One PC](https://youtu.be/EPpgy2S_9lg)  
-*(Exclusive companion project for viewers)*
+#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Free Home Theater Setup | No NAS Needed, Auto Poster Wall & Multi-Device Playback on One PC](https://youtu.be/EPpgy2S_9lg)
 
 <a href="https://youtu.be/EPpgy2S_9lg" target="_blank">
   <img src="images/009-1280-en.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
@@ -144,8 +162,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/Win1011Aut
 
 ---
 
-**▶️ Lightspeed Sharing (YT) Video Tutorial:** [Wirelessly Transfer iPhone Photos & Videos to Windows Without Any Software](https://youtu.be/USNIBEAcWME)  
-*(Exclusive companion project for viewers)*
+#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Wirelessly Transfer iPhone Photos & Videos to Windows Without Any Software](https://youtu.be/USNIBEAcWME)
 
 <a href="https://youtu.be/USNIBEAcWME" target="_blank">
   <img src="images/007-1280-en.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />

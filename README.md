@@ -18,7 +18,6 @@
 > **专属配套：** 本项目所有脚本均为 **YouTube - 光速分享** 频道视频教程的专属配套资源。
 ---
 
-
 ### 🙋‍♂️ 参与频道共建
 > **请订阅光速分享（YT）**
 > **💡 社区互动：** 即可在我的社区帖中投票 / 自定义服务需求，让这里的一切由你书写。
@@ -50,8 +49,31 @@ $s=(New-Object -COM WScript.Shell).CreateShortcut("$([Environment]::GetFolderPat
 iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Create_AdminPSShortcut_Tool.ps1 | iex
 ```
 ---
-**▶️ 光速分享 (YT) 视频教程：** [一行代码彻底汉化 GitHub！最快配置方案](https://youtu.be/n7P0SFjFppg)  
-*（专属帮助项目，观看用户专用）*
+
+## 📑 视频教程导航
+- [▶️ 一行代码利用AI一键生成完美证件照](#️-光速分享-yt-视频教程一行代码利用ai一键生成完美证件照别再去照相馆花冤枉钱了省时又省力)
+- [▶️ 一行代码彻底汉化 GitHub！](#️-光速分享-yt-视频教程一行代码彻底汉化-github最快配置方案)
+- [▶️ 一行代码搞定！Windows 软件数据一键备份与恢复](#️-光速分享-yt-视频教程一行代码搞定windows-软件数据一键备份与恢复)
+- [▶️ 一行代码深度清理 Windows！](#️-光速分享-yt-视频教程一行代码深度清理-windows无需安装软件一键释放巨量系统空间)
+- [▶️ 免费家庭影院搭建教程｜无需NAS](#️-光速分享-yt-视频教程免费家庭影院搭建教程无需nas一台电脑实现自动海报墙--全设备播放)
+- [▶️ iPhone照片视频无线传输到Windows](#️-光速分享-yt-视频教程iphone照片视频无线传输到windows无需任何软件)
+
+---
+#### ▶️ 光速分享 (YT) 视频教程：[一行代码利用AI一键生成完美证件照，别再去照相馆花冤枉钱了！省时又省力！](https://youtu.be/q4KUOJbgJZ4)
+
+<a href="https://youtu.be/q4KUOJbgJZ4" target="_blank">
+  <img src="images/014-1920-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
+</a>
+
+### 📸 AI 证件照完美提示词生成工具
+> **提示：** 生成多类型完美证件照提示词，发至任意AI一键生成完美标准尺寸的证件照，省时省力
+
+```powershell
+
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/AIPortrait_Tool.ps1 | iex
+```
+---
+#### ▶️ 光速分享 (YT) 视频教程：[一行代码彻底汉化 GitHub！最快配置方案](https://youtu.be/n7P0SFjFppg)
 
 <a href="https://youtu.be/n7P0SFjFppg" target="_blank">
   <img src="images/013-1280-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
@@ -71,8 +93,7 @@ https://github.com/Cotton059/Light-Help/raw/refs/heads/main/ThirdParty/maboloshi
 ```
 
 ---
-**▶️ 光速分享 (YT) 视频教程：** [一行代码搞定！Windows 软件数据一键备份与恢复](https://youtu.be/5bBx3p3nWok)  
-*（专属帮助项目，观看用户专用）*
+#### ▶️ 光速分享 (YT) 视频教程：[一行代码搞定！Windows 软件数据一键备份与恢复](https://youtu.be/5bBx3p3nWok)
 
 <a href="https://youtu.be/5bBx3p3nWok" target="_blank">
   <img src="images/012-1280-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
@@ -87,8 +108,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/AppBackup_
 
 
 ---
-**▶️ 光速分享 (YT) 视频教程：** [一行代码深度清理 Windows！无需安装软件，一键释放巨量系统空间](https://youtu.be/f5Ta_W54GL0)  
-*（专属帮助项目，观看用户专用）*
+#### ▶️ 光速分享 (YT) 视频教程：[一行代码深度清理 Windows！无需安装软件，一键释放巨量系统空间](https://youtu.be/f5Ta_W54GL0)
 
 <a href="https://youtu.be/f5Ta_W54GL0" target="_blank">
   <img src="images/011-1280-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
@@ -108,8 +128,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/DeepClean_
 ```
 
 ---
-**▶️ 光速分享 (YT) 视频教程：** [免费家庭影院搭建教程｜无需NAS，一台电脑实现自动海报墙 + 全设备播放](https://youtu.be/EPpgy2S_9lg)  
-*（专属帮助项目，观看用户专用）*
+#### ▶️ 光速分享 (YT) 视频教程：[免费家庭影院搭建教程｜无需NAS，一台电脑实现自动海报墙 + 全设备播放](https://youtu.be/EPpgy2S_9lg)
 
 <a href="https://youtu.be/EPpgy2S_9lg" target="_blank">
   <img src="images/009-1280-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
@@ -145,8 +164,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/Win1011Aut
 
 ---
 
-**▶️ 光速分享 (YT) 视频教程：** [iPhone照片视频无线传输到Windows无需任何软件](https://youtu.be/USNIBEAcWME)  
-*（专属帮助项目，观看用户专用）*
+#### ▶️ 光速分享 (YT) 视频教程：[iPhone照片视频无线传输到Windows无需任何软件](https://youtu.be/USNIBEAcWME)
 
 <a href="https://youtu.be/USNIBEAcWME" target="_blank">
   <img src="images/007-1280-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
